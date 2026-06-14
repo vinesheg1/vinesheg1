@@ -13,3 +13,6 @@
   <a href="https://credly.comb8fcea9d-859f-4014-978e-79eb0dfed88b" target="_blank"><img src="https://images.credly.com/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="110" height="110" alt="Exam 480: Programming in HTML5 with JavaScript and CSS3" title="Exam 480: Programming in HTML5 with JavaScript and CSS3" style="margin: 5px;"/></a>
 </p>
 <!-- END_SECTION:credly-org -->
+
+![Visitor Count](https://komarev.com)
+
