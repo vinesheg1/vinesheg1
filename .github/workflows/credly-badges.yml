@@ -1,13 +1,12 @@
-name: Update Credly Badges
+name: Update Dual Credly Badges
 
 on:
   schedule:
-    # Runs automatically every day at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to manually run the workflow anytime
+  workflow_dispatch:
 
 permissions:
-  contents: write # Grants write access to update the README file
+  contents: write
 
 jobs:
   update-readme:
@@ -16,9 +15,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch and Update Credly Badges
+      # Step 1: Fetch Personal Badges
+      - name: Fetch Personal Badges
         uses: jd-35656/readme-credly-badges@v1
         with:
-          credly_username: 'vinesh-eg' # <-- Replace with your username
-          badge_size: '110x110' # Optional: customize badge image sizes
+          credly_username: 'vinesh-eg'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2: Fetch Org Badges (Uses custom tags to avoid overwriting step 1)
+      - name: Fetch Organization Badges
+        uses: jd-35656/readme-credly-badges@v1
+        with:
+          credly_username: 'vinesh-eg.09e7ae76'
           github_token: ${{ secrets.GITHUB_TOKEN }}
