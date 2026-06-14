@@ -3,7 +3,7 @@ name: Update Dual Credly Badges
 on:
   schedule:
     # Runs at midnight on the 1st and 16th of every month (Every 15 Days)
-    - cron: '0 0 1,16 * *'
+    - cron: '0 0 1 * *'
   workflow_dispatch: # Allows manual override triggers
 
 permissions:
