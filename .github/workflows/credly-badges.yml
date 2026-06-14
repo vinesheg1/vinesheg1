@@ -26,8 +26,8 @@ jobs:
 
       - name: Fetch and Inject Badges
         env:
-          PERSONAL_USER: 'vinesh-eg' # <-- Replace with your personal Credly username
-          ORG_USER: 'vinesh-eg.09e7ae76'           # <-- Replace with your company Credly username
+          PERSONAL_USER: 'vinesh-eg' # <-- 1. SET YOUR PERSONAL PROFILE HANDLE
+          ORG_USER: 'vinesh-eg.09e7ae76'     # <-- 2. SET YOUR CORPORATE PROFILE HANDLE
         run: |
           python - << 'EOF'
           import os
@@ -35,20 +35,20 @@ jobs:
           import re
 
           def get_badges_html(username):
-              if not username or username == 'vinesh-eg' or username == 'vinesh-eg.09e7ae76':
-                  return "<!-- No username configured -->"
+              if not username:
+                  return "<!-- Username empty -->"
               
+              # Pull data straight from Credly public consumer endpoint
               url = f"https://credly.com{username}/badges"
               response = requests.get(url)
               if response.status_code != 200:
-                  print(f"Failed to fetch data for {username}")
-                  return "<!-- Failed to pull from Credly API -->"
+                  return f"<!-- Failed to fetch data for {username}. HTTP {response.status_code} -->"
               
               data = response.json().get('data', [])
               if not data:
-                  return "<p>No public badges found.</p>"
+                  return "<!-- No public badges found on this profile profile -->"
               
-              # Formats badges into a clean horizontal wrap layout
+              # Formats badges into a responsive horizontal element block
               html_output = '<p align="left">\n'
               for badge in data:
                   badge_name = badge.get('badge_template', {}).get('name', 'Badge')
@@ -60,22 +60,19 @@ jobs:
               html_output += '</p>'
               return html_output
 
-          # Read current README
+          # Open the file
           with open('README.md', 'r', encoding='utf-8') as file:
               readme = file.read()
 
-          # Fetch badge sections
+          # Process the request string
           personal_html = get_badges_html(os.getenv('PERSONAL_USER'))
           org_html = get_badges_html(os.getenv('ORG_USER'))
 
-          # Inject into placeholders using regex pattern matching
-          p_pattern = r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)"
-          readme = re.sub(p_pattern, f"\\1\n{personal_html}\n\\3", readme, flags=re.DOTALL)
+          # Inject changes 
+          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", f"\\1\n{org_html}\n\\3", readme, flags=re.DOTALL)
 
-          o_pattern = r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)"
-          readme = re.sub(o_pattern, f"\\1\n{org_html}\n\\3", readme, flags=re.DOTALL)
-
-          # Save changes
+          # Write out content
           with open('README.md', 'w', encoding='utf-8') as file:
               file.write(readme)
           EOF
