@@ -20,11 +20,13 @@ jobs:
         uses: jd-35656/readme-credly-badges@v1
         with:
           credly_username: 'vinesh-eg'
+          target_section: 'credly-personal' # <-- Tells the script to look for "credly-personal" markers
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Fetch Org Badges (Uses custom tags to avoid overwriting step 1)
+      # Step 2: Fetch Organization Badges
       - name: Fetch Organization Badges
         uses: jd-35656/readme-credly-badges@v1
         with:
           credly_username: 'vinesh-eg.09e7ae76'
+          target_section: 'credly-org' # <-- Tells the script to look for "credly-org" markers
           github_token: ${{ secrets.GITHUB_TOKEN }}
