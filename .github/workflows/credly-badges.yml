@@ -2,31 +2,40 @@ name: Update Dual Credly Badges
 
 on:
   schedule:
+    # Runs at 00:00 (midnight) on the 1st and 16th of every month (every 15 days)
     - cron: '0 0 1,16 * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to manually trigger it anytime
 
 permissions:
-  contents: write
+  contents: write # Absolute requirement to push changes back to main branch
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Bring your repository files into the environment
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 1: Fetch Personal Badges into the "credly-personal" section
+      # Step 2: Fetch Personal Badges into your custom personal tags
       - name: Fetch Personal Badges
         uses: pemtajo/badge-readme@main
         with:
-          credly_user: 'vinesh-eg'
-          id: 'credly-personal' # <-- Maps directly to <!-- START_SECTION:credly-personal -->
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-          
-      # Step 2: Fetch Corporate Badges into the "credly-org" section
+          CREDLY_USER: 'vinesh-eg' # <-- MUST be written in ALL CAPS
+          id: 'credly-personal'
+
+      # Step 3: Fetch Corporate Badges into your custom org tags
       - name: Fetch Corporate Badges
         uses: pemtajo/badge-readme@main
         with:
-          credly_user: 'vinesh-eg.09e7ae76'
-          id: 'credly-org' # <-- Maps directly to <!-- START_SECTION:credly-org -->
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          CREDLY_USER: 'vinesh-eg.09e7ae76' # <-- MUST be written in ALL CAPS
+          id: 'credly-org'
+
+      # Step 4: Explicitly commit and push the changes if modifications were made
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if the README actually changed to avoid workflow errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: Synced Credly Badges" && git push)
