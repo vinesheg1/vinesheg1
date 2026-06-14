@@ -1,4 +1,3 @@
-## 🏅 Personal Certifications
 <!-- START_SECTION:credly-personal -->
 <p align="left">
   <a href="https://credly.come500080f-ed3b-4ea0-b075-8d39ba7dc9f3" target="_blank"><img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="110" height="110" alt="Create Your First Gemini Enterprise Application" title="Create Your First Gemini Enterprise Application" style="margin: 5px;"/></a>
@@ -8,7 +7,6 @@
 </p>
 <!-- END_SECTION:credly-personal -->
 
-## 🏢 Corporate Certifications
 <!-- START_SECTION:credly-org -->
 <p align="left">
   <a href="https://credly.comc7019e4a-9b3a-4e87-b6b9-d89959c43621" target="_blank"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="110" height="110" alt="Generative AI Leader Certification" title="Generative AI Leader Certification" style="margin: 5px;"/></a>
