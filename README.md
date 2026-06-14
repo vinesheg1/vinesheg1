@@ -1,7 +1,7 @@
-## Personal Certifications
-<!-- START PERSONAL BADGES -->
-<!-- END PERSONAL BADGES -->
+## 🏅 Personal Certifications
+<!-- START_SECTION:credly-personal -->
+<!-- END_SECTION:credly-personal -->
 
-## Work & Enterprise Certifications
-<!-- START ORG BADGES -->
-<!-- END ORG BADGES -->
+## 🏢 Corporate Certifications
+<!-- START_SECTION:credly-org -->
+<!-- END_SECTION:credly-org -->
