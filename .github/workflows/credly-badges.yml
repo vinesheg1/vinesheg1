@@ -2,40 +2,87 @@ name: Update Dual Credly Badges
 
 on:
   schedule:
-    # Runs at 00:00 (midnight) on the 1st and 16th of every month (every 15 days)
+    # Runs at midnight on the 1st and 16th of every month (Every 15 Days)
     - cron: '0 0 1,16 * *'
-  workflow_dispatch: # Allows you to manually trigger it anytime
+  workflow_dispatch: # Allows manual override triggers
 
 permissions:
-  contents: write # Absolute requirement to push changes back to main branch
+  contents: write
 
 jobs:
-  update-readme:
+  sync-badges:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Bring your repository files into the environment
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Fetch Personal Badges into your custom personal tags
-      - name: Fetch Personal Badges
-        uses: pemtajo/badge-readme@main
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          CREDLY_USER: 'vinesh-eg' # <-- MUST be written in ALL CAPS
-          id: 'credly-personal'
+          python-version: '3.x'
 
-      # Step 3: Fetch Corporate Badges into your custom org tags
-      - name: Fetch Corporate Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: 'vinesh-eg.09e7ae76' # <-- MUST be written in ALL CAPS
-          id: 'credly-org'
+      - name: Install Dependencies
+        run: pip install requests
 
-      # Step 4: Explicitly commit and push the changes if modifications were made
+      - name: Fetch and Inject Badges
+        env:
+          PERSONAL_USER: 'vinesh-eg' # <-- Replace with your personal Credly username
+          ORG_USER: 'vinesh-eg.09e7ae76'           # <-- Replace with your company Credly username
+        run: |
+          python - << 'EOF'
+          import os
+          import requests
+          import re
+
+          def get_badges_html(username):
+              if not username or username == 'vinesh-eg' or username == 'vinesh-eg.09e7ae76':
+                  return "<!-- No username configured -->"
+              
+              url = f"https://credly.com{username}/badges"
+              response = requests.get(url)
+              if response.status_code != 200:
+                  print(f"Failed to fetch data for {username}")
+                  return "<!-- Failed to pull from Credly API -->"
+              
+              data = response.json().get('data', [])
+              if not data:
+                  return "<p>No public badges found.</p>"
+              
+              # Formats badges into a clean horizontal wrap layout
+              html_output = '<p align="left">\n'
+              for badge in data:
+                  badge_name = badge.get('badge_template', {}).get('name', 'Badge')
+                  image_url = badge.get('badge_template', {}).get('image_url', '')
+                  verification_url = f"https://credly.com{badge.get('id', '')}"
+                  
+                  if image_url:
+                      html_output += f'  <a href="{verification_url}" target="_blank"><img src="{image_url}" width="110" height="110" alt="{badge_name}" title="{badge_name}" style="margin: 5px;"/></a>\n'
+              html_output += '</p>'
+              return html_output
+
+          # Read current README
+          with open('README.md', 'r', encoding='utf-8') as file:
+              readme = file.read()
+
+          # Fetch badge sections
+          personal_html = get_badges_html(os.getenv('PERSONAL_USER'))
+          org_html = get_badges_html(os.getenv('ORG_USER'))
+
+          # Inject into placeholders using regex pattern matching
+          p_pattern = r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)"
+          readme = re.sub(p_pattern, f"\\1\n{personal_html}\n\\3", readme, flags=re.DOTALL)
+
+          o_pattern = r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)"
+          readme = re.sub(o_pattern, f"\\1\n{org_html}\n\\3", readme, flags=re.DOTALL)
+
+          # Save changes
+          with open('README.md', 'w', encoding='utf-8') as file:
+              file.write(readme)
+          EOF
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Only commit if the README actually changed to avoid workflow errors
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: Synced Credly Badges" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Sync: Updated Personal & Org Credly Badges" && git push)
