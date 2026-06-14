@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://demolab.com! 🎉" alt="Typing SVG" />
+</p>
+
+[![Ashutosh's github activity graph](https://vercel.app)](https://github.com)
+
+
 <!-- START_SECTION:credly-personal -->
 <p align="left">
   <a href="https://credly.come500080f-ed3b-4ea0-b075-8d39ba7dc9f3" target="_blank"><img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="110" height="110" alt="Create Your First Gemini Enterprise Application" title="Create Your First Gemini Enterprise Application" style="margin: 5px;"/></a>
