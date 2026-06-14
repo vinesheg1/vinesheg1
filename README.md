@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://demolab.com! 🎉" alt="Typing SVG" />
-</p>
-
-[![Ashutosh's github activity graph](https://vercel.app)](https://github.com)
-
 
 <!-- START_SECTION:credly-personal -->
 <p align="left">
