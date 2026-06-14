@@ -14,5 +14,5 @@
 </p>
 <!-- END_SECTION:credly-org -->
 
-![Visitor Count](https://komarev.com)
+![](https://komarev.com/ghpvc/?username=vinesheg1)
 
