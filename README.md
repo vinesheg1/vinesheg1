@@ -7,6 +7,7 @@
 
 <!-- START_SECTION:credly-personal -->
 <p align="left">
+  <a href="https://credly.com8bf3344d-5a33-4d03-b8cf-427ba17f9171" target="_blank"><img src="https://images.credly.com/images/730e9c82-7869-4288-b580-9f8500a94465/blob" width="110" height="110" alt="Building AI-Powered Search with MongoDB Vector Search" title="Building AI-Powered Search with MongoDB Vector Search" style="margin: 5px;"/></a>
   <a href="https://credly.com041a90c7-f4f8-42e4-b8a3-b8673d81863b" target="_blank"><img src="https://images.credly.com/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="110" height="110" alt="MongoDB Overview: Core Concepts and Architecture" title="MongoDB Overview: Core Concepts and Architecture" style="margin: 5px;"/></a>
   <a href="https://credly.come500080f-ed3b-4ea0-b075-8d39ba7dc9f3" target="_blank"><img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="110" height="110" alt="Create Your First Gemini Enterprise Application" title="Create Your First Gemini Enterprise Application" style="margin: 5px;"/></a>
   <a href="https://credly.com7a772cdd-6578-46cc-8db7-d8284473e49e" target="_blank"><img src="https://images.credly.com/images/a9ffe24e-4e89-4a5a-9bdb-f75cc3413931/Cloud_Platform_Application_Developer_v1.png" width="110" height="110" alt="IBM Certified Application Developer - Cloud Platform V1" title="IBM Certified Application Developer - Cloud Platform V1" style="margin: 5px;"/></a>
