@@ -19,6 +19,9 @@
 
 
   <a href="https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="110" height="110" alt="Graph Developer - Associate" title="Graph Developer - Associate" style="margin: 5px;"/></a>
+<a href="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" target="_blank"><img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="110" height="110" alt="Claude Code in Action" title="Claude Code in Action" style="margin: 5px;"/></a>
+
+  
 
 ![](https://komarev.com/ghpvc/?username=vinesheg1)
 
