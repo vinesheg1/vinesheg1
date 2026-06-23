@@ -16,9 +16,9 @@
 </p>
 <!-- END_SECTION:credly-personal -->
 
-https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff
 
 
+  <a href="https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="110" height="110" alt="Graph Developer - Associate" title="Graph Developer - Associate" style="margin: 5px;"/></a>
 
 ![](https://komarev.com/ghpvc/?username=vinesheg1)
 
