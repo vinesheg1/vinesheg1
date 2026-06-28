@@ -1,4 +1,4 @@
-name: Update Dual Credly Badges
+8name: Update Dual Credly Badges
 
 on:
   schedule:
@@ -56,7 +56,7 @@ jobs:
                   verification_url = f"https://credly.com{badge.get('id', '')}"
                   
                   if image_url:
-                      html_output += f'  <a href="{verification_url}" target="_blank"><img src="{image_url}" width="110" height="110" alt="{badge_name}" title="{badge_name}" style="margin: 5px;"/></a>\n'
+                      html_output += f'  <a href="{verification_url}" target="_blank"><img src="{image_url}" width="70" height="70" alt="{badge_name}" title="{badge_name}" style="margin: 5px;"/></a>\n'
               html_output += '</p>'
               return html_output
 
