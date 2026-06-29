@@ -1,4 +1,4 @@
-8name: Update Dual Credly Badges
+name: Update Dual Credly Badges
 
 on:
   schedule:
