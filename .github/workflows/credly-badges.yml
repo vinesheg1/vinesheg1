@@ -1,7 +1,7 @@
 - name: Fetch and Inject Badges
   env:
-          PERSONAL_USER: 'vinesh-eg'
-          ORG_USER: 'vinesh-eg.09e7ae76'
+      PERSONAL_USER: 'vinesh-eg'
+      ORG_USER: 'vinesh-eg.09e7ae76'
         run: |
           python - << 'EOF'
           import os
