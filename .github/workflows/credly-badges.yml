@@ -1,47 +1,47 @@
 - name: Fetch and Inject Badges
   env:
-      PERSONAL_USER: 'vinesh-eg'
-      ORG_USER: 'vinesh-eg.09e7ae76'
-        run: |
-          python - << 'EOF'
-          import os
-          import requests
-          import re
+    PERSONAL_USER: 'vinesh-eg'
+    ORG_USER: 'vinesh-eg.09e7ae76'
+  run: |
+    python - << 'EOF'
+    import os
+    import requests
+    import re
 
-          def get_combined_skills(usernames):
-              skills_set = set()
-              for username in usernames:
-                  if not username: continue
-                  url = f"https://credly.com/users/{username}/badges.json"
-                  response = requests.get(url)
-                  if response.status_code == 200:
-                      data = response.json().get('data', [])
-                      for badge in data:
-                          # Extract tags from the badge template
-                          tags = badge.get('badge_template', {}).get('tags', [])
-                          for skill in tags:
-                              skills_set.add(skill)
-              
-              # Generate Markdown for Shields.io badges
-              html_output = '<p align="left">\n'
-              for skill in sorted(skills_set):
-                  skill_formatted = skill.replace(" ", "%20")
-                  # Using a standard blue style; you can change 'blue' to other colors
-                  html_output += f'  <img src="https://img.shields.io/badge/{skill_formatted}-blue?style=flat-square" alt="{skill}" />\n'
-              html_output += '</p>'
-              return html_output
+    def get_combined_skills(usernames):
+        skills_set = set()
+        for username in usernames:
+            if not username: continue
+            url = f"https://credly.com/users/{username}/badges.json"
+            response = requests.get(url)
+            if response.status_code == 200:
+                data = response.json().get('data', [])
+                for badge in data:
+                    # Extract tags from the badge template
+                    tags = badge.get('badge_template', {}).get('tags', [])
+                    for skill in tags:
+                        skills_set.add(skill)
+        
+        # Generate Markdown for Shields.io badges
+        html_output = '<p align="left">\n'
+        for skill in sorted(skills_set):
+            skill_formatted = skill.replace(" ", "%20")
+            # Using a standard blue style; you can change 'blue' to other colors
+            html_output += f'  <img src="https://img.shields.io/badge/{skill_formatted}-blue?style=flat-square" alt="{skill}" />\n'
+        html_output += '</p>'
+        return html_output
 
-          # Process and Inject
-          with open('README.md', 'r', encoding='utf-8') as file:
-              readme = file.read()
+    # Process and Inject
+    with open('README.md', 'r', encoding='utf-8') as file:
+        readme = file.read()
 
-          # Generate the single consolidated skills section
-          all_skills_html = get_combined_skills([os.getenv('PERSONAL_USER'), os.getenv('ORG_USER')])
+    # Generate the single consolidated skills section
+    all_skills_html = get_combined_skills([os.getenv('PERSONAL_USER'), os.getenv('ORG_USER')])
 
-          # Inject into the README (using one section now, or keep both if you prefer)
-          # Replacing the old section with the new combined skill list
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{all_skills_html}\n\\3", readme, flags=re.DOTALL)
+    # Inject into the README (using one section now, or keep both if you prefer)
+    # Replacing the old section with the new combined skill list
+    readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{all_skills_html}\n\\3", readme, flags=re.DOTALL)
 
-          with open('README.md', 'w', encoding='utf-8') as file:
-              file.write(readme)
-          EOF
+    with open('README.md', 'w', encoding='utf-8') as file:
+        file.write(readme)
+    EOF
