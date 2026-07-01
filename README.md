@@ -1,6 +1,573 @@
-# Welcome to my Profile
 
-## Professional Summary
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
 
-## 🛠 Tech Stack & Skills
-## 🏆 Certifications
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+</div>
