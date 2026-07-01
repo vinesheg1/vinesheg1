@@ -50,11 +50,12 @@ jobs:
                   except Exception as e:
                       print(f"Error fetching {username}: {e}")
               
-              html_output = '<p align="left">\n'
-              for skill in sorted(skills_set):
-                  skill_formatted = skill.replace(" ", "%20")
-                  html_output += f'  <img src="https://img.shields.io/badge/{skill_formatted}-blue?style=flat-square" alt="{skill}" />\n'
-              html_output += '</p>'
+            # Replace the old loop with this fast text-based approach
+          html_output = '<div style="display: flex; flex-wrap: wrap; gap: 10px;">\n'
+          for skill in sorted(skills_set):
+              # Using a styled <span> instead of an image
+              html_output += f'  <span style="background: #e1f5fe; color: #0277bd; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #b3e5fc;">{skill}</span>\n'
+          html_output += '</div>'
               return html_output
 
           with open('README.md', 'r', encoding='utf-8') as file:
