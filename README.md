@@ -1,9 +1,6 @@
+# Welcome to my Profile
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-</div>
+## Professional Summary
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-</div>
+## 🛠 Tech Stack & Skills
+## 🏆 Certifications
