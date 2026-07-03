@@ -108,11 +108,33 @@ A passionate Fullstack Architect from Kochi, India
 <a href="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" target="_blank"><img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="70" height="70" alt="Claude Code in Action" title="Claude Code in Action" style="margin: 5px;"/></a>
 
 <!-- START_SECTION:credly-personal -->
+  <a href="https://credly.com/b5486864-92c3-4263-b6b2-4988fa7bcf69" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/520b12b6-dac0-4731-a4f6-e41427201422/BadgeEmblem_EnterpriseDesignThinkingPractitioner.png" width="70" height="70" alt="Enterprise Design Thinking Practitioner" title="Enterprise Design Thinking Practitioner" style="margin:5px;"/></a>
+  <a href="https://credly.com/8bf3344d-5a33-4d03-b8cf-427ba17f9171" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/730e9c82-7869-4288-b580-9f8500a94465/blob" width="70" height="70" alt="Building AI-Powered Search with MongoDB Vector Search" title="Building AI-Powered Search with MongoDB Vector Search" style="margin:5px;"/></a>
+  <a href="https://credly.com/ca659eac-d1ea-4c2d-9b75-c3bfb26ffe89" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/d03daa9d-d708-4989-b8f4-7f44656a2e27/Cloud_App_Developer_-_Knowledge_Badge.png" width="70" height="70" alt="Cloud App Developer" title="Cloud App Developer" style="margin:5px;"/></a>
+  <a href="https://credly.com/6b4cb8d5-956f-4b6d-99ff-af9439d1d7a3" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/7c4bf803-b7a8-44c2-a9ac-351d2d8d2c3a/Explorer_no_stars.png" width="70" height="70" alt="Cloud Developer Bootcamp" title="Cloud Developer Bootcamp" style="margin:5px;"/></a>
+  <a href="https://credly.com/041a90c7-f4f8-42e4-b8a3-b8673d81863b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="70" height="70" alt="MongoDB Overview: Core Concepts and Architecture" title="MongoDB Overview: Core Concepts and Architecture" style="margin:5px;"/></a>
+  <a href="https://credly.com/e500080f-ed3b-4ea0-b075-8d39ba7dc9f3" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="70" height="70" alt="Create Your First Gemini Enterprise Application" title="Create Your First Gemini Enterprise Application" style="margin:5px;"/></a>
+  <a href="https://credly.com/7a772cdd-6578-46cc-8db7-d8284473e49e" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/a9ffe24e-4e89-4a5a-9bdb-f75cc3413931/Cloud_Platform_Application_Developer_v1.png" width="70" height="70" alt="IBM Certified Application Developer - Cloud Platform V1" title="IBM Certified Application Developer - Cloud Platform V1" style="margin:5px;"/></a>
+  <a href="https://credly.com/2410c166-b041-438b-9b78-4062de981680" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="70" height="70" alt="Fundamentals of Predictive Project Management" title="Fundamentals of Predictive Project Management" style="margin:5px;"/></a>
+  <a href="https://credly.com/350f66e6-80c7-4b98-a014-4595dc00a4ef" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/5ff933c8-b6ae-4d55-9ac5-1c4d8ff63f90/Badge_TeamEssentialsForDesigningAISolutions.png" width="70" height="70" alt="Team Essentials for Designing AI Solutions" title="Team Essentials for Designing AI Solutions" style="margin:5px;"/></a>
+
 <!-- END_SECTION:credly-personal -->
  
 
 
 <!-- START_SECTION:credly-org -->
+  <a href="https://credly.com/c7019e4a-9b3a-4e87-b6b9-d89959c43621" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="70" height="70" alt="Generative AI Leader Certification" title="Generative AI Leader Certification" style="margin:5px;"/></a>
+  <a href="https://credly.com/c18b1bca-3556-4dfe-80e9-b1c2ea851bb0" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/4301264b-520e-4f33-9b56-e81b3d330e59/d9a3c3e5-c380-4442-9de3-ea3bf91f3047.png" width="70" height="70" alt="Common Agentic Design Patterns" title="Common Agentic Design Patterns" style="margin:5px;"/></a>
+  <a href="https://credly.com/e1944915-1cda-4d50-99d6-f6601f7b6624" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/7c6da591-0fd2-456f-a6f3-495f70d665a5/06349cfc-1fe7-43f5-bddd-c2f242b7ae8c.png" width="70" height="70" alt="AI Agents Core Components" title="AI Agents Core Components" style="margin:5px;"/></a>
+  <a href="https://credly.com/860a3dc4-2b2d-46de-9713-02c0081fe100" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/b3779dd3-140d-4cc3-9be3-6528bcdfe153/4b56c83c-cb75-4eca-bf1d-0e8419cabb54.png" width="70" height="70" alt="Autonomy in AI Agents" title="Autonomy in AI Agents" style="margin:5px;"/></a>
+  <a href="https://credly.com/b8fcea9d-859f-4014-978e-79eb0dfed88b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="70" height="70" alt="Exam 480: Programming in HTML5 with JavaScript and CSS3" title="Exam 480: Programming in HTML5 with JavaScript and CSS3" style="margin:5px;"/></a>
+  <a href="https://credly.com/52dbfd42-35be-47e3-9fdc-2705e69a361f" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/059f1e87-69c4-411c-a943-3239cdee98e3/9997d831-5bd6-48c9-a010-feef6dbf05cd.png" width="70" height="70" alt="Agentic Loop Basics" title="Agentic Loop Basics" style="margin:5px;"/></a>
+  <a href="https://credly.com/10504ce2-293b-4f2d-9d0b-d7f433e219be" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/ccec5fea-d5db-4e33-a73d-239eb1f6f5da/3cde6db2-150c-4620-990a-0ff3aa249adc.png" width="70" height="70" alt="AI Agents and Context Eng" title="AI Agents and Context Eng" style="margin:5px;"/></a>
+  <a href="https://credly.com/53858416-ab60-4ff2-b871-b3abc4048ada" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/40cea108-315f-4a09-aee0-7ca9d70c8b25/6d53791d-41f4-4205-ba60-10930ab8d0fe.png" width="70" height="70" alt="Arch vs Design" title="Arch vs Design" style="margin:5px;"/></a>
+  <a href="https://credly.com/db8feba1-4693-45cc-bb12-dfa568adbbf9" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/1a61bad8-65cb-480d-a257-b38a1d14fc39/a84a56a0-9839-4191-b5be-50ceddef8e9a.png" width="70" height="70" alt="Tools in AI Agents" title="Tools in AI Agents" style="margin:5px;"/></a>
+  <a href="https://credly.com/997884bd-3a92-4c13-8274-f1aee2b04b30" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/ae09c62e-f6e7-47a3-926d-be31e79e26a8/ccdb7922-240b-4bb8-a089-a2f2b97d8430.png" width="70" height="70" alt="Architect Expectations" title="Architect Expectations" style="margin:5px;"/></a>
+  <a href="https://credly.com/ec92c132-f80f-45fc-a37b-dc41292c9e0d" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/d4dfb7dc-4f95-47d8-990b-25d4166b295d/4e14402e-9653-4fde-b8d0-cf5e129d134d.png" width="70" height="70" alt="Task Decomposition" title="Task Decomposition" style="margin:5px;"/></a>
+
 <!-- END_SECTION:credly-org -->
 
 
@@ -125,128 +147,128 @@ A passionate Fullstack Architect from Kochi, India
 ### Skills
 <!-- START_SECTION:credly-skills -->
 <div align="left">
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Collaboration</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Design</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Empathy</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Enterprise Design Thinking</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Experience Design</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Ideation</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Iteration</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Problem Solving</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Prototyping</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">PWID-B1028900</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Storytelling</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Synthesis</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Team Alignment</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">User-Centered Design</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">User Experience (UX)</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">User Research</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">AI</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Document Retrieval</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Elasticsearch</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">GenAI</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Information Cataloging</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Information Retrieval</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Lucene</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Metadata</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">MongoDB</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">NoSQL Databases</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Search Algorithms</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Subject Indexing</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Vector Search</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Autoscaling</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Bluemix</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Cloud Computing</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Cloudfoundry</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Data Cache</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">DevOps</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Hybrid Cloud</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">IaaS</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">MQLight Messaging Service</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">PaaS</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Private Cloud</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Public Cloud</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">PWID-B0515200</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">SaaS</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Security</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Single Sign On</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Analytics</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Big Data</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Bluemix Services</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Internet Of Things</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Mobile</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">PWID-B0222000</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Watson</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Architecture Frameworks</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Database Architecture</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Database Schemas</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Data Structures</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Developer</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Distributed Systems</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">OPS</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Scalability</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Sharding</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Systems Architecture</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">AI Agents</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Enterprise Application</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Gemini</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Gemini Enterprise</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">AlchemyAPI</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Cloudant</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">dashDB</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">DataWorks</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Messaging Service</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">MQLight</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">ObjectStore Storage</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">SQL</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Project Planning &amp; Alignment</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Project Scheduling</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Project Tracking</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Requirements Gathering</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Risk Mitigation</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Task Delegation</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">AI Ethics</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">AI Solution Design</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Artificial Intelligence</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Communication Skills</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Critical Thinking</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Data Literacy</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Design Thinking</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">PWID-B1055400</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Responsible AI</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Artificial Intelligence (AI)</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Artificial Intelligence Applications</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Business Acumen</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Business Analysis</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Business Awareness</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Generative AI</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Google Cloud Platform (GCP)</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Strategic Business Units</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Coding Practices</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Design Patterns</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Design Process</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">AI &amp; ML</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Machine Learning</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Application Developer</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">CSS3</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Data Security</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Data Validation</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">HTML5</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">JavaScript</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Object-based Programming</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Visual Studio</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Web Applications</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Web Developer</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Algorithms</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Logic</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Math</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Large Language Models (LLMs)</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #9333ea; border-radius:10px; font-size:11px; line-height:1.2; color:#9333ea; background:#ffffff;">Natural Language Processing</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #dc2626; border-radius:10px; font-size:11px; line-height:1.2; color:#dc2626; background:#ffffff;">Prompt Engineering</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #d97706; border-radius:10px; font-size:11px; line-height:1.2; color:#d97706; background:#ffffff;">Software Architecture</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #0f766e; border-radius:10px; font-size:11px; line-height:1.2; color:#0f766e; background:#ffffff;">Software Design</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #16a34a; border-radius:10px; font-size:11px; line-height:1.2; color:#16a34a; background:#ffffff;">Software Development</span>
-  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid #2563eb; border-radius:10px; font-size:11px; line-height:1.2; color:#2563eb; background:#ffffff;">Containers</span>
+  <img src="https://img.shields.io/badge/skill-Collaboration-16a34a?style=for-the-badge" alt="Collaboration" title="Collaboration" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Design-2563eb?style=for-the-badge" alt="Design" title="Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Empathy-9333ea?style=for-the-badge" alt="Empathy" title="Empathy" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Enterprise%20Design%20Thinking-dc2626?style=for-the-badge" alt="Enterprise Design Thinking" title="Enterprise Design Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Experience%20Design-d97706?style=for-the-badge" alt="Experience Design" title="Experience Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Ideation-0f766e?style=for-the-badge" alt="Ideation" title="Ideation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Iteration-16a34a?style=for-the-badge" alt="Iteration" title="Iteration" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Problem%20Solving-2563eb?style=for-the-badge" alt="Problem Solving" title="Problem Solving" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Prototyping-9333ea?style=for-the-badge" alt="Prototyping" title="Prototyping" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-PWID-B1028900-dc2626?style=for-the-badge" alt="PWID-B1028900" title="PWID-B1028900" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Storytelling-d97706?style=for-the-badge" alt="Storytelling" title="Storytelling" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Synthesis-0f766e?style=for-the-badge" alt="Synthesis" title="Synthesis" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Team%20Alignment-16a34a?style=for-the-badge" alt="Team Alignment" title="Team Alignment" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-User-Centered%20Design-2563eb?style=for-the-badge" alt="User-Centered Design" title="User-Centered Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-User%20Experience%20%28UX%29-9333ea?style=for-the-badge" alt="User Experience (UX)" title="User Experience (UX)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-User%20Research-dc2626?style=for-the-badge" alt="User Research" title="User Research" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AI-d97706?style=for-the-badge" alt="AI" title="AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Document%20Retrieval-0f766e?style=for-the-badge" alt="Document Retrieval" title="Document Retrieval" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Elasticsearch-16a34a?style=for-the-badge" alt="Elasticsearch" title="Elasticsearch" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-GenAI-2563eb?style=for-the-badge" alt="GenAI" title="GenAI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Information%20Cataloging-9333ea?style=for-the-badge" alt="Information Cataloging" title="Information Cataloging" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Information%20Retrieval-dc2626?style=for-the-badge" alt="Information Retrieval" title="Information Retrieval" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Lucene-d97706?style=for-the-badge" alt="Lucene" title="Lucene" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Metadata-0f766e?style=for-the-badge" alt="Metadata" title="Metadata" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-MongoDB-16a34a?style=for-the-badge" alt="MongoDB" title="MongoDB" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-NoSQL%20Databases-2563eb?style=for-the-badge" alt="NoSQL Databases" title="NoSQL Databases" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Search%20Algorithms-9333ea?style=for-the-badge" alt="Search Algorithms" title="Search Algorithms" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Subject%20Indexing-dc2626?style=for-the-badge" alt="Subject Indexing" title="Subject Indexing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Vector%20Search-d97706?style=for-the-badge" alt="Vector Search" title="Vector Search" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Autoscaling-0f766e?style=for-the-badge" alt="Autoscaling" title="Autoscaling" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Bluemix-16a34a?style=for-the-badge" alt="Bluemix" title="Bluemix" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Cloud%20Computing-2563eb?style=for-the-badge" alt="Cloud Computing" title="Cloud Computing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Cloudfoundry-9333ea?style=for-the-badge" alt="Cloudfoundry" title="Cloudfoundry" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Data%20Cache-dc2626?style=for-the-badge" alt="Data Cache" title="Data Cache" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-DevOps-d97706?style=for-the-badge" alt="DevOps" title="DevOps" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Hybrid%20Cloud-0f766e?style=for-the-badge" alt="Hybrid Cloud" title="Hybrid Cloud" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-IaaS-16a34a?style=for-the-badge" alt="IaaS" title="IaaS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-MQLight%20Messaging%20Service-2563eb?style=for-the-badge" alt="MQLight Messaging Service" title="MQLight Messaging Service" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-PaaS-9333ea?style=for-the-badge" alt="PaaS" title="PaaS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Private%20Cloud-dc2626?style=for-the-badge" alt="Private Cloud" title="Private Cloud" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Public%20Cloud-d97706?style=for-the-badge" alt="Public Cloud" title="Public Cloud" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-PWID-B0515200-0f766e?style=for-the-badge" alt="PWID-B0515200" title="PWID-B0515200" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-SaaS-16a34a?style=for-the-badge" alt="SaaS" title="SaaS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Security-2563eb?style=for-the-badge" alt="Security" title="Security" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Single%20Sign%20On-9333ea?style=for-the-badge" alt="Single Sign On" title="Single Sign On" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Analytics-dc2626?style=for-the-badge" alt="Analytics" title="Analytics" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Big%20Data-d97706?style=for-the-badge" alt="Big Data" title="Big Data" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Bluemix%20Services-0f766e?style=for-the-badge" alt="Bluemix Services" title="Bluemix Services" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Internet%20Of%20Things-16a34a?style=for-the-badge" alt="Internet Of Things" title="Internet Of Things" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Mobile-2563eb?style=for-the-badge" alt="Mobile" title="Mobile" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-PWID-B0222000-9333ea?style=for-the-badge" alt="PWID-B0222000" title="PWID-B0222000" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Watson-dc2626?style=for-the-badge" alt="Watson" title="Watson" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Architecture%20Frameworks-d97706?style=for-the-badge" alt="Architecture Frameworks" title="Architecture Frameworks" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Database%20Architecture-0f766e?style=for-the-badge" alt="Database Architecture" title="Database Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Database%20Schemas-16a34a?style=for-the-badge" alt="Database Schemas" title="Database Schemas" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Data%20Structures-2563eb?style=for-the-badge" alt="Data Structures" title="Data Structures" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Developer-9333ea?style=for-the-badge" alt="Developer" title="Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Distributed%20Systems-dc2626?style=for-the-badge" alt="Distributed Systems" title="Distributed Systems" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-OPS-d97706?style=for-the-badge" alt="OPS" title="OPS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Scalability-0f766e?style=for-the-badge" alt="Scalability" title="Scalability" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Sharding-16a34a?style=for-the-badge" alt="Sharding" title="Sharding" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Systems%20Architecture-2563eb?style=for-the-badge" alt="Systems Architecture" title="Systems Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AI%20Agents-9333ea?style=for-the-badge" alt="AI Agents" title="AI Agents" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Enterprise%20Application-dc2626?style=for-the-badge" alt="Enterprise Application" title="Enterprise Application" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Gemini-d97706?style=for-the-badge" alt="Gemini" title="Gemini" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Gemini%20Enterprise-0f766e?style=for-the-badge" alt="Gemini Enterprise" title="Gemini Enterprise" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AlchemyAPI-16a34a?style=for-the-badge" alt="AlchemyAPI" title="AlchemyAPI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Cloudant-2563eb?style=for-the-badge" alt="Cloudant" title="Cloudant" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-dashDB-9333ea?style=for-the-badge" alt="dashDB" title="dashDB" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-DataWorks-dc2626?style=for-the-badge" alt="DataWorks" title="DataWorks" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Messaging%20Service-d97706?style=for-the-badge" alt="Messaging Service" title="Messaging Service" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-MQLight-0f766e?style=for-the-badge" alt="MQLight" title="MQLight" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-ObjectStore%20Storage-16a34a?style=for-the-badge" alt="ObjectStore Storage" title="ObjectStore Storage" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-SQL-2563eb?style=for-the-badge" alt="SQL" title="SQL" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Project%20Planning%20%26%20Alignment-9333ea?style=for-the-badge" alt="Project Planning &amp; Alignment" title="Project Planning &amp; Alignment" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Project%20Scheduling-dc2626?style=for-the-badge" alt="Project Scheduling" title="Project Scheduling" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Project%20Tracking-d97706?style=for-the-badge" alt="Project Tracking" title="Project Tracking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Requirements%20Gathering-0f766e?style=for-the-badge" alt="Requirements Gathering" title="Requirements Gathering" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Risk%20Mitigation-16a34a?style=for-the-badge" alt="Risk Mitigation" title="Risk Mitigation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Task%20Delegation-2563eb?style=for-the-badge" alt="Task Delegation" title="Task Delegation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AI%20Ethics-9333ea?style=for-the-badge" alt="AI Ethics" title="AI Ethics" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AI%20Solution%20Design-dc2626?style=for-the-badge" alt="AI Solution Design" title="AI Solution Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Artificial%20Intelligence-d97706?style=for-the-badge" alt="Artificial Intelligence" title="Artificial Intelligence" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Communication%20Skills-0f766e?style=for-the-badge" alt="Communication Skills" title="Communication Skills" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Critical%20Thinking-16a34a?style=for-the-badge" alt="Critical Thinking" title="Critical Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Data%20Literacy-2563eb?style=for-the-badge" alt="Data Literacy" title="Data Literacy" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Design%20Thinking-9333ea?style=for-the-badge" alt="Design Thinking" title="Design Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-PWID-B1055400-dc2626?style=for-the-badge" alt="PWID-B1055400" title="PWID-B1055400" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Responsible%20AI-d97706?style=for-the-badge" alt="Responsible AI" title="Responsible AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Artificial%20Intelligence%20%28AI%29-0f766e?style=for-the-badge" alt="Artificial Intelligence (AI)" title="Artificial Intelligence (AI)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Artificial%20Intelligence%20Applications-16a34a?style=for-the-badge" alt="Artificial Intelligence Applications" title="Artificial Intelligence Applications" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Business%20Acumen-2563eb?style=for-the-badge" alt="Business Acumen" title="Business Acumen" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Business%20Analysis-9333ea?style=for-the-badge" alt="Business Analysis" title="Business Analysis" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Business%20Awareness-dc2626?style=for-the-badge" alt="Business Awareness" title="Business Awareness" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Generative%20AI-d97706?style=for-the-badge" alt="Generative AI" title="Generative AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Google%20Cloud%20Platform%20%28GCP%29-0f766e?style=for-the-badge" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Strategic%20Business%20Units-16a34a?style=for-the-badge" alt="Strategic Business Units" title="Strategic Business Units" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Coding%20Practices-2563eb?style=for-the-badge" alt="Coding Practices" title="Coding Practices" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Design%20Patterns-9333ea?style=for-the-badge" alt="Design Patterns" title="Design Patterns" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Design%20Process-dc2626?style=for-the-badge" alt="Design Process" title="Design Process" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-AI%20%26%20ML-d97706?style=for-the-badge" alt="AI &amp; ML" title="AI &amp; ML" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Machine%20Learning-0f766e?style=for-the-badge" alt="Machine Learning" title="Machine Learning" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Application%20Developer-16a34a?style=for-the-badge" alt="Application Developer" title="Application Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-CSS3-2563eb?style=for-the-badge" alt="CSS3" title="CSS3" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Data%20Security-9333ea?style=for-the-badge" alt="Data Security" title="Data Security" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Data%20Validation-dc2626?style=for-the-badge" alt="Data Validation" title="Data Validation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-HTML5-d97706?style=for-the-badge" alt="HTML5" title="HTML5" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-JavaScript-0f766e?style=for-the-badge" alt="JavaScript" title="JavaScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Object-based%20Programming-16a34a?style=for-the-badge" alt="Object-based Programming" title="Object-based Programming" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Visual%20Studio-2563eb?style=for-the-badge" alt="Visual Studio" title="Visual Studio" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Web%20Applications-9333ea?style=for-the-badge" alt="Web Applications" title="Web Applications" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Web%20Developer-dc2626?style=for-the-badge" alt="Web Developer" title="Web Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Algorithms-d97706?style=for-the-badge" alt="Algorithms" title="Algorithms" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Logic-0f766e?style=for-the-badge" alt="Logic" title="Logic" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Math-16a34a?style=for-the-badge" alt="Math" title="Math" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Large%20Language%20Models%20%28LLMs%29-2563eb?style=for-the-badge" alt="Large Language Models (LLMs)" title="Large Language Models (LLMs)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Natural%20Language%20Processing-9333ea?style=for-the-badge" alt="Natural Language Processing" title="Natural Language Processing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Prompt%20Engineering-dc2626?style=for-the-badge" alt="Prompt Engineering" title="Prompt Engineering" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Software%20Architecture-d97706?style=for-the-badge" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Software%20Design-0f766e?style=for-the-badge" alt="Software Design" title="Software Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Software%20Development-16a34a?style=for-the-badge" alt="Software Development" title="Software Development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/skill-Containers-2563eb?style=for-the-badge" alt="Containers" title="Containers" style="margin:5px;"/>
 </div>
 <!-- END_SECTION:credly-skills -->
 
