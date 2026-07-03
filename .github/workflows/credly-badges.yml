@@ -125,6 +125,29 @@ jobs:
               html_output += '</div>'
               return html_output
 
+          def merge_badge_content(existing_content, generated_content):
+              existing_items = (existing_content or '').strip()
+              generated_items = (generated_content or '').strip()
+
+              if existing_items.startswith('<div align="left">') and existing_items.endswith('</div>'):
+                  existing_items = existing_items[len('<div align="left">'):-len('</div>')].strip()
+              if generated_items.startswith('<div align="left">') and generated_items.endswith('</div>'):
+                  generated_items = generated_items[len('<div align="left">'):-len('</div>')].strip()
+
+              pieces = [piece for piece in [existing_items, generated_items] if piece]
+              if not pieces:
+                  return '<div align="left"><!-- No badges found --></div>'
+
+              return '<div align="left">\n' + '\n'.join(pieces) + '\n</div>'
+
+          def replace_section_content(readme_text, start_marker, end_marker, new_content):
+              pattern = re.compile(rf"({re.escape(start_marker)})(.*?)(\{re.escape(end_marker)})", re.DOTALL)
+              def repl(match):
+                  existing_content = match.group(2)
+                  combined_content = merge_badge_content(existing_content, new_content)
+                  return f"{match.group(1)}\n{combined_content}\n{match.group(3)}"
+              return pattern.sub(repl, readme_text, count=1)
+
           def render_skills_html(badges):
               all_skills = []
               for badge in badges:
@@ -163,8 +186,8 @@ jobs:
           skills_html = render_skills_html(all_badges)
 
           # Inject changes
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_badges_html}\n\\3", readme, flags=re.DOTALL)
-          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", f"\\1\n{org_badges_html}\n\\3", readme, flags=re.DOTALL)
+          readme = replace_section_content(readme, '<!-- START_SECTION:credly-personal -->', '<!-- END_SECTION:credly-personal -->', personal_badges_html)
+          readme = replace_section_content(readme, '<!-- START_SECTION:credly-org -->', '<!-- END_SECTION:credly-org -->', org_badges_html)
           readme = re.sub(r"(<!-- START_SECTION:credly-skills -->)(.*?)(<!-- END_SECTION:credly-skills -->)", f"\\1\n{skills_html}\n\\3", readme, flags=re.DOTALL)
 
           # Write out content
