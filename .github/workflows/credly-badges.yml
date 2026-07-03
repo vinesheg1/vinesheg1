@@ -94,18 +94,35 @@ jobs:
 
               return badges
 
+          def is_image_available(image_url):
+              if not image_url:
+                  return False
+              try:
+                  response = requests.head(image_url, timeout=10, allow_redirects=True)
+                  return response.status_code < 400
+              except requests.RequestException:
+                  return False
+
           def render_badges_html(badges):
               if not badges:
                   return '<div align="left"><!-- No badges found --></div>'
 
-              html_output = ''
-              for badge in badges:
+              colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e', '7c3aed', '0891b2', 'ea580c', 'be185d']
+              html_output = '<div align="left">\n'
+              for index, badge in enumerate(badges):
                   badge_name = badge['name']
                   image_url = badge['image_url']
                   verification_url = badge['verification_url']
-                  if image_url:
-                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}" style="margin:5px;"/></a>\n'
-              html_output += ''
+
+                  if image_url and is_image_available(image_url):
+                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}"/></a>\n'
+                  else:
+                      safe_name = re.sub(r'[^A-Za-z0-9._-]+', '-', badge_name).strip('-') or 'badge'
+                      color = colors[index % len(colors)]
+                      badge_url = f"https://img.shields.io/badge/{quote(safe_name, safe='')}-{color}"
+                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="{badge_url}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}"/></a>\n'
+
+              html_output += '</div>'
               return html_output
 
           def render_skills_html(badges):
