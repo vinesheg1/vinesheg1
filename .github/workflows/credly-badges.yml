@@ -108,7 +108,7 @@ jobs:
                   return '<div align="left"><!-- No badges found --></div>'
 
               colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e', '7c3aed', '0891b2', 'ea580c', 'be185d']
-              html_output = '<div align="left">\n'
+              html_output = ''
               for index, badge in enumerate(badges):
                   badge_name = badge['name']
                   image_url = badge['image_url']
@@ -122,7 +122,7 @@ jobs:
                       badge_url = f"https://img.shields.io/badge/{quote(safe_name, safe='')}-{color}"
                       html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="{badge_url}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}"/></a>\n'
 
-              html_output += '</div>'
+              html_output += ''
               return html_output
 
           def render_skills_html(badges):
