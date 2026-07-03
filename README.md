@@ -117,12 +117,6 @@ A passionate Fullstack Architect from Kochi, India
   <a href="https://credly.comdb8feba1-4693-45cc-bb12-dfa568adbbf9" target="_blank"><img src="https://images.credly.com/images/1a61bad8-65cb-480d-a257-b38a1d14fc39/a84a56a0-9839-4191-b5be-50ceddef8e9a.png" width="70" height="70" alt="Tools in AI Agents" title="Tools in AI Agents" style="margin: 5px;"/></a>
   <a href="https://credly.com997884bd-3a92-4c13-8274-f1aee2b04b30" target="_blank"><img src="https://images.credly.com/images/ae09c62e-f6e7-47a3-926d-be31e79e26a8/ccdb7922-240b-4bb8-a089-a2f2b97d8430.png" width="70" height="70" alt="Architect Expectations" title="Architect Expectations" style="margin: 5px;"/></a>
   <a href="https://credly.comec92c132-f80f-45fc-a37b-dc41292c9e0d" target="_blank"><img src="https://images.credly.com/images/d4dfb7dc-4f95-47d8-990b-25d4166b295d/4e14402e-9653-4fde-b8d0-cf5e129d134d.png" width="70" height="70" alt="Task Decomposition" title="Task Decomposition" style="margin: 5px;"/></a>
-
-
-
-
-
-  
 </p>
 <!-- END_SECTION:credly-org -->
 
