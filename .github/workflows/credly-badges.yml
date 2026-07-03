@@ -97,14 +97,14 @@ jobs:
               if not badges:
                   return '<div align="left"><!-- No badges found --></div>'
 
-              html_output = '<div align="left">\n'
+              html_output = ''
               for badge in badges:
                   badge_name = badge['name']
                   image_url = badge['image_url']
                   verification_url = badge['verification_url']
                   if image_url:
                       html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}" style="margin:5px;"/></a>\n'
-              html_output += '</div>'
+              html_output += ''
               return html_output
 
           def render_skills_html(badges):
