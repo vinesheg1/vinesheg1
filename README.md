@@ -124,11 +124,4 @@ A passionate Fullstack Architect from Kochi, India
 <!-- END_SECTION:credly-skills -->
 
 
-
-
-
-
-
-  
-
 ![](https://komarev.com/ghpvc/?username=vinesheg1)
