@@ -141,12 +141,13 @@ jobs:
           org_badges = get_badges_data(os.getenv('ORG_USER'))
           all_badges = personal_badges + org_badges
 
-          badges_html = render_badges_html(all_badges)
+          personal_badges_html = render_badges_html(personal_badges)
+          org_badges_html = render_badges_html(org_badges)
           skills_html = render_skills_html(all_badges)
 
           # Inject changes
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{badges_html}\n\\3", readme, flags=re.DOTALL)
-          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", "", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_badges_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", f"\\1\n{org_badges_html}\n\\3", readme, flags=re.DOTALL)
           readme = re.sub(r"(<!-- START_SECTION:credly-skills -->)(.*?)(<!-- END_SECTION:credly-skills -->)", f"\\1\n{skills_html}\n\\3", readme, flags=re.DOTALL)
 
           # Write out content
