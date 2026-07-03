@@ -35,21 +35,17 @@ jobs:
           import html
           import requests
 
-          def get_badges_html(username):
+          def get_badges_data(username):
               if not username:
-                  return "<!-- Username empty -->"
+                  return []
 
-              # Pull data straight from Credly public consumer endpoint
               url = f"https://credly.com/users/{username}/badges.json"
               response = requests.get(url, timeout=15)
               if response.status_code != 200:
-                  return f"<!-- Failed to fetch data for {username}. HTTP {response.status_code} -->"
+                  return []
 
               data = response.json().get('data', [])
-              if not data:
-                  return "<!-- No public badges found on this profile -->"
-
-              html_output = '<div align="left">\n'
+              badges = []
               for badge in data:
                   badge_template = badge.get('badge_template') or {}
                   badge_name = badge_template.get('name', 'Badge')
@@ -88,38 +84,68 @@ jobs:
                           seen.add(skill)
                           unique_skills.append(skill)
 
-                  html_output += '  <div style="display:inline-block; vertical-align:top; margin:8px 8px 12px 0; text-align:left;">\n'
+                  badges.append({
+                      'name': badge_name,
+                      'image_url': image_url,
+                      'verification_url': verification_url,
+                      'skills': unique_skills,
+                  })
+
+              return badges
+
+          def render_badges_html(badges):
+              if not badges:
+                  return '<div align="left"><!-- No badges found --></div>'
+
+              html_output = '<div align="left">\n'
+              for badge in badges:
+                  badge_name = badge['name']
+                  image_url = badge['image_url']
+                  verification_url = badge['verification_url']
                   if image_url:
-                      html_output += f'    <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}" style="margin-bottom:6px;"/></a>\n'
-                  else:
-                      html_output += '    <div style="width:70px; height:70px; margin-bottom:6px; background:#f5f5f5; border-radius:8px;"></div>\n'
-
-                  if unique_skills:
-                      skill_html = ''.join(
-                          f'      <span style="display:inline-block; margin:2px 2px 0 0; padding:2px 6px; border-radius:999px; background:#eef2ff; color:#4338ca; font-size:11px; line-height:1.2;">{html.escape(skill)}</span>\n'
-                          for skill in unique_skills
-                      )
-                      html_output += '    <div style="max-width:120px;">\n'
-                      html_output += '      <div style="font-size:10px; font-weight:bold; color:#4b5563; margin-bottom:3px;">Skills</div>\n'
-                      html_output += skill_html
-                      html_output += '    </div>\n'
-
-                  html_output += '  </div>\n'
-
+                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}" style="margin:5px;"/></a>\n'
               html_output += '</div>'
               return html_output
+
+          def render_skills_html(badges):
+              all_skills = []
+              for badge in badges:
+                  all_skills.extend(badge['skills'])
+
+              seen = set()
+              unique_skills = []
+              for skill in all_skills:
+                  if skill and skill not in seen:
+                      seen.add(skill)
+                      unique_skills.append(skill)
+
+              if not unique_skills:
+                  return ''
+
+              skill_html = ''.join(
+                  f'  <span style="display:inline-block; margin:4px 6px 4px 0; padding:4px 10px; border:1px solid #d1d5db; border-radius:999px; background:#ffffff; color:#374151; font-size:12px; line-height:1.2;">{html.escape(skill)}</span>\n'
+                  for skill in unique_skills
+              )
+              return '<div align="left">\n' + skill_html + '</div>'
 
           # Open the file
           with open('README.md', 'r', encoding='utf-8') as file:
               readme = file.read()
 
           # Process the request string
-          personal_html = get_badges_html(os.getenv('PERSONAL_USER'))
-          org_html = get_badges_html(os.getenv('ORG_USER'))
+          personal_badges = get_badges_data(os.getenv('PERSONAL_USER'))
+          org_badges = get_badges_data(os.getenv('ORG_USER'))
+          all_badges = personal_badges + org_badges
+
+          badges_html = render_badges_html(all_badges)
+          skills_html = render_skills_html(all_badges)
+          content_html = badges_html
+          if skills_html:
+              content_html += '\n### Skills\n' + skills_html
 
           # Inject changes
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_html}\n\\3", readme, flags=re.DOTALL)
-          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", f"\\1\n{org_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{content_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", "", readme, flags=re.DOTALL)
 
           # Write out content
           with open('README.md', 'w', encoding='utf-8') as file:
