@@ -123,12 +123,12 @@ jobs:
               if not unique_skills:
                   return ''
 
-              colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e']
+              colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e', '7c3aed', '0891b2', 'ea580c', 'be185d']
               skill_html = ''
               for index, skill in enumerate(unique_skills):
-                  border_color = colors[index % len(colors)]
+                  color = colors[index % len(colors)]
                   encoded_skill = quote(skill, safe='')
-                  badge_url = f"https://img.shields.io/badge/skill-{encoded_skill}-{border_color}?style=for-the-badge"
+                  badge_url = f"https://img.shields.io/badge/{encoded_skill}-{color}"
                   skill_html += f'  <img src="{badge_url}" alt="{html.escape(skill)}" title="{html.escape(skill)}" style="margin:5px;"/>\n'
               return '<div align="left">\n' + skill_html + '</div>'
 
