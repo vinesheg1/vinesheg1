@@ -122,10 +122,14 @@ jobs:
               if not unique_skills:
                   return ''
 
-              skill_html = ''.join(
-                  f'  <span style="display:inline-block; margin:4px 6px 4px 0; padding:4px 10px; border:1px solid #d1d5db; border-radius:999px; background:#ffffff; color:#374151; font-size:12px; line-height:1.2;">{html.escape(skill)}</span>\n'
-                  for skill in unique_skills
-              )
+              colors = ['#16a34a', '#2563eb', '#9333ea', '#dc2626', '#d97706', '#0f766e']
+              skill_html = ''
+              for index, skill in enumerate(unique_skills):
+                  border_color = colors[index % len(colors)]
+                  skill_html += (
+                      f'  <span style="display:inline-block; margin:5px; padding:2px 5px; border:1px solid {border_color}; border-radius:10px; '
+                      f'font-size:11px; line-height:1.2; color:{border_color}; background:#ffffff;">{html.escape(skill)}</span>\n'
+                  )
               return '<div align="left">\n' + skill_html + '</div>'
 
           # Open the file
@@ -139,13 +143,11 @@ jobs:
 
           badges_html = render_badges_html(all_badges)
           skills_html = render_skills_html(all_badges)
-          content_html = badges_html
-          if skills_html:
-              content_html += '\n### Skills\n' + skills_html
 
           # Inject changes
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{content_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{badges_html}\n\\3", readme, flags=re.DOTALL)
           readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", "", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-skills -->)(.*?)(<!-- END_SECTION:credly-skills -->)", f"\\1\n{skills_html}\n\\3", readme, flags=re.DOTALL)
 
           # Write out content
           with open('README.md', 'w', encoding='utf-8') as file:
