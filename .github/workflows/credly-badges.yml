@@ -2,9 +2,9 @@ name: Update Dual Credly Badges
 
 on:
   schedule:
-    # Runs at midnight on the 1st and 16th of every month
-    - cron: '0 0 1,16 * *'
-  workflow_dispatch: 
+    # Runs at midnight on the 1st and 16th of every month (Every 15 Days)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual override triggers
 
 permissions:
   contents: write
@@ -26,44 +26,53 @@ jobs:
 
       - name: Fetch and Inject Badges
         env:
-          PERSONAL_USER: 'vinesh-eg'
-          ORG_USER: 'vinesh-eg.09e7ae76'
+          PERSONAL_USER: 'vinesh-eg' # <-- 1. SET YOUR PERSONAL PROFILE HANDLE
+          ORG_USER: 'vinesh-eg.09e7ae76'     # <-- 2. SET YOUR CORPORATE PROFILE HANDLE
         run: |
           python - << 'EOF'
           import os
           import requests
           import re
 
-          def get_combined_skills(usernames):
-              skills_set = set()
-              for username in usernames:
-                  if not username: continue
-                  url = f"https://credly.com/users/{username}/badges.json"
-                  try:
-                      response = requests.get(url, timeout=10)
-                      if response.status_code == 200:
-                          data = response.json().get('data', [])
-                          for badge in data:
-                              tags = badge.get('badge_template', {}).get('tags', [])
-                              for skill in tags:
-                                  skills_set.add(skill)
-                  except Exception as e:
-                      print(f"Error fetching {username}: {e}")
+          def get_badges_html(username):
+              if not username:
+                  return "<!-- Username empty -->"
               
-              html_output = '<div style="display: flex; flex-wrap: wrap; gap: 10px;">\n'
-              for skill in sorted(skills_set):
-                html_output += f'  <span style="background: #e1f5fe; color: #0277bd; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #b3e5fc;">{skill}</span>\n'
-              html_output += '</div>'
+              # Pull data straight from Credly public consumer endpoint
+              url = f"https://credly.com/users/{username}/badges.json"              
+              response = requests.get(url)
+              if response.status_code != 200:
+                  return f"<!-- Failed to fetch data for {username}. HTTP {response.status_code} -->"
+              
+              data = response.json().get('data', [])
+              if not data:
+                  return "<!-- No public badges found on this profile profile -->"
+              
+              # Formats badges into a responsive horizontal element block
+              html_output = '<p align="left">\n'
+              for badge in data:
+                  badge_name = badge.get('badge_template', {}).get('name', 'Badge')
+                  image_url = badge.get('badge_template', {}).get('image_url', '')
+                  verification_url = f"https://credly.com{badge.get('id', '')}"
+                  
+                  if image_url:
+                      html_output += f'  <a href="{verification_url}" target="_blank"><img src="{image_url}" width="70" height="70" alt="{badge_name}" title="{badge_name}" style="margin: 5px;"/></a>\n'
+              html_output += '</p>'
               return html_output
 
+          # Open the file
           with open('README.md', 'r', encoding='utf-8') as file:
               readme = file.read()
 
-          all_skills_html = get_combined_skills([os.getenv('PERSONAL_USER'), os.getenv('ORG_USER')])
+          # Process the request string
+          personal_html = get_badges_html(os.getenv('PERSONAL_USER'))
+          org_html = get_badges_html(os.getenv('ORG_USER'))
 
-          # Ensure the regex matches your README anchors exactly
-          readme = re.sub(r"()(.*?)()", f"\\1\n{all_skills_html}\n\\3", readme, flags=re.DOTALL)
+          # Inject changes 
+          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_html}\n\\3", readme, flags=re.DOTALL)
+          readme = re.sub(r"(<!-- START_SECTION:credly-org -->)(.*?)(<!-- END_SECTION:credly-org -->)", f"\\1\n{org_html}\n\\3", readme, flags=re.DOTALL)
 
+          # Write out content
           with open('README.md', 'w', encoding='utf-8') as file:
               file.write(readme)
           EOF
@@ -73,4 +82,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Sync: Updated Credly Skills" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Sync: Updated Personal & Org Credly Badges" && git push)
