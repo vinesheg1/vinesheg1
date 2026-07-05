@@ -49,47 +49,11 @@ jobs:
               badges = []
               for badge in data:
                   badge_template = badge.get('badge_template') or {}
-                  badge_name = badge_template.get('name', 'Badge')
-                  image_url = badge_template.get('image_url', '')
-                  badge_id = badge.get('id') or badge_template.get('id', '')
-                  verification_url = f"https://credly.com{badge_id if badge_id.startswith('/') else '/' + badge_id}" if badge_id else '#'
-
-                  skills = []
-                  skill_sources = [
-                      badge.get('skills'),
-                      badge_template.get('skills'),
-                      badge.get('skill_names'),
-                      badge_template.get('skill_names'),
-                  ]
-
-                  for source in skill_sources:
-                      if isinstance(source, list):
-                          for skill in source:
-                              if isinstance(skill, dict):
-                                  name = skill.get('name') or skill.get('display_name') or skill.get('skill_name') or skill.get('title')
-                                  if name:
-                                      skills.append(name)
-                              elif isinstance(skill, str) and skill.strip():
-                                  skills.append(skill.strip())
-                      elif isinstance(source, dict):
-                          name = source.get('name') or source.get('display_name') or source.get('skill_name') or source.get('title')
-                          if name:
-                              skills.append(name)
-                      elif isinstance(source, str) and source.strip():
-                          skills.append(source.strip())
-
-                  seen = set()
-                  unique_skills = []
-                  for skill in skills:
-                      if skill and skill not in seen:
-                          seen.add(skill)
-                          unique_skills.append(skill)
-
                   badges.append({
-                      'name': badge_name,
-                      'image_url': image_url,
-                      'verification_url': verification_url,
-                      'skills': unique_skills,
+                      'name': badge_template.get('name', 'Badge'),
+                      'image_url': badge_template.get('image_url', ''),
+                      'verification_url':badge_template.get('url'),
+                      'skills':  badge_template.get('skills')
                   })
 
               return badges
@@ -156,8 +120,7 @@ jobs:
           # Process the request string
           personal_badges = get_badges_data(os.getenv('PERSONAL_USER'))
           org_badges = get_badges_data(os.getenv('ORG_USER'))
-          # all_badges = personal_badges + org_badges
-          all_badges = personal_badges
+          all_badges = personal_badges + org_badges
 
           personal_badges_html = render_badges_html(all_badges)
           skills_html = render_skills_html(all_badges)
