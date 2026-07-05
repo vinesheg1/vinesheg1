@@ -49,11 +49,16 @@ jobs:
               badges = []
               for badge in data:
                   badge_template = badge.get('badge_template') or {}
+                  badge_name = badge_template.get('name', 'Badge')
+                  image_url = badge_template.get('image_url', '')
+                  badge_id = badge.get('id') or badge_template.get('id', '')
+                  verification_url = f"https://credly.com{badge_id if badge_id.startswith('/') else '/' + badge_id}" if badge_id else '#'
+
                   badges.append({
-                      'name': badge_template.get('name', 'Badge'),
-                      'image_url': badge_template.get('image_url', ''),
-                      'verification_url':badge_template.get('url'),
-                      'skills':  badge_template.get('skills')
+                      'name': badge_name,
+                      'image_url': image_url,
+                      'verification_url': verification_url,
+                      'skills': badge.get('skills')
                   })
 
               return badges
