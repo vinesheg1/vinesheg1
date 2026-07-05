@@ -16,130 +16,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.x'
-
-      - name: Install Dependencies
-        run: pip install requests
+          node-version: '20'
 
       - name: Fetch and Inject Badges
         env:
           PERSONAL_USER: 'vinesh-eg' # <-- 1. SET YOUR PERSONAL PROFILE HANDLE
           ORG_USER: 'vinesh-eg.09e7ae76'     # <-- 2. SET YOUR CORPORATE PROFILE HANDLE
-        run: |
-          python - << 'EOF'
-          import os
-          import re
-          import html
-          from urllib.parse import quote
-          import requests
-
-          def get_badges_data(username):
-              if not username:
-                  return []
-
-              url = f"https://credly.com/users/{username}/badges.json"
-              response = requests.get(url, timeout=15)
-              if response.status_code != 200:
-                  return []
-
-              data = response.json().get('data', [])
-              badges = []
-              for badge in data:
-                  badge_template = badge.get('badge_template') or {}
-                  badge_name = badge_template.get('name', 'Badge')
-                  image_url = badge_template.get('image_url', '')
-                  badge_id = badge.get('id') or badge_template.get('id', '')
-                  verification_url = f"https://credly.com{badge_id if badge_id.startswith('/') else '/' + badge_id}" if badge_id else '#'
-
-                  badges.append({
-                      'name': badge_name,
-                      'image_url': image_url,
-                      'verification_url': verification_url,
-                      'skills': badge.get('skills')
-                  })
-
-              return badges
-
-          def is_image_available(image_url):
-              if not image_url:
-                  return False
-              try:
-                  response = requests.head(image_url, timeout=10, allow_redirects=True)
-                  return response.status_code < 400
-              except requests.RequestException:
-                  return False
-
-          def render_badges_html(badges):
-              if not badges:
-                  return '<div align="left"><!-- No badges found --></div>'
-
-              colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e', '7c3aed', '0891b2', 'ea580c', 'be185d']
-              html_output = ''
-              for index, badge in enumerate(badges):
-                  badge_name = badge['name']
-                  image_url = badge['image_url']
-                  verification_url = badge['verification_url']
-
-                  if image_url and is_image_available(image_url):
-                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="{html.escape(image_url)}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}"/></a>\n'
-                  else:
-                      safe_name = re.sub(r'[^A-Za-z0-9._-]+', '-', badge_name).strip('-') or 'badge'
-                      color = colors[index % len(colors)]
-                      badge_url = f"https://img.shields.io/badge/{quote(safe_name, safe='')}-{color}"
-                      html_output += f'  <a href="{html.escape(verification_url)}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="{badge_url}" width="70" height="70" alt="{html.escape(badge_name)}" title="{html.escape(badge_name)}"/></a>\n'
-
-              html_output += ''
-              return html_output
-
-          def render_skills_html(badges):
-              all_skills = []
-              for badge in badges:
-                  all_skills.extend(badge['skills'])
-
-              seen = set()
-              unique_skills = []
-              for skill in all_skills:
-                  if skill and skill not in seen:
-                      seen.add(skill)
-                      unique_skills.append(skill)
-
-              if not unique_skills:
-                  return ''
-
-              colors = ['16a34a', '2563eb', '9333ea', 'dc2626', 'd97706', '0f766e', '7c3aed', '0891b2', 'ea580c', 'be185d']
-              skill_html = ''
-              for index, skill in enumerate(unique_skills):
-                  color = colors[index % len(colors)]
-                  encoded_skill = quote(skill, safe='')
-                  badge_url = f"https://img.shields.io/badge/{encoded_skill}-{color}"
-                  skill_html += f'  <img src="{badge_url}" alt="{html.escape(skill)}" title="{html.escape(skill)}" style="margin:5px;"/>\n'
-              return '<div align="left">\n' + skill_html + '</div>'
-
-          # Open the file
-          with open('README.md', 'r', encoding='utf-8') as file:
-              readme = file.read()
-
-          # Process the request string
-          personal_badges = get_badges_data(os.getenv('PERSONAL_USER'))
-          org_badges = get_badges_data(os.getenv('ORG_USER'))
-          all_badges = personal_badges + org_badges
-
-          personal_badges_html = render_badges_html(all_badges)
-          skills_html = render_skills_html(all_badges)
-          custom_badges = '<a href="https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="70" height="70" alt="Graph Developer - Associate" title="Graph Developer - Associate" style="margin: 5px;"/></a><a href="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" target="_blank"><img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="70" height="70" alt="Claude Code in Action" title="Claude Code in Action" style="margin: 5px;"/></a>'
-          personal_badges_html += custom_badges
-
-          # Inject changes
-          readme = re.sub(r"(<!-- START_SECTION:credly-personal -->)(.*?)(<!-- END_SECTION:credly-personal -->)", f"\\1\n{personal_badges_html}\n\\3", readme, flags=re.DOTALL)
-          readme = re.sub(r"(<!-- START_SECTION:credly-skills -->)(.*?)(<!-- END_SECTION:credly-skills -->)", f"\\1\n{skills_html}\n\\3", readme, flags=re.DOTALL)
-
-          # Write out content
-          with open('README.md', 'w', encoding='utf-8') as file:
-              file.write(readme)
-          EOF
+        run: node scripts/credly-badges.mjs
 
       - name: Commit and Push Changes
         run: |
