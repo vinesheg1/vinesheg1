@@ -111,6 +111,7 @@ A passionate Fullstack Architect from Kochi, India
   <a href="https://credly.com/041a90c7-f4f8-42e4-b8a3-b8673d81863b" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="70" height="70" alt="MongoDB Overview: Core Concepts and Architecture" title="MongoDB Overview: Core Concepts and Architecture"/></a>
   <a href="https://credly.com/e500080f-ed3b-4ea0-b075-8d39ba7dc9f3" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="70" height="70" alt="Create Your First Gemini Enterprise Application" title="Create Your First Gemini Enterprise Application"/></a>
   <a href="https://credly.com/7a772cdd-6578-46cc-8db7-d8284473e49e" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/a9ffe24e-4e89-4a5a-9bdb-f75cc3413931/Cloud_Platform_Application_Developer_v1.png" width="70" height="70" alt="IBM Certified Application Developer - Cloud Platform V1" title="IBM Certified Application Developer - Cloud Platform V1"/></a>
+  <a href="https://credly.com/84f65c48-6329-49b3-beda-20c7b7409af8" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="70" height="70" alt="AI Literacy" title="AI Literacy"/></a>
   <a href="https://credly.com/2410c166-b041-438b-9b78-4062de981680" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="70" height="70" alt="Fundamentals of Predictive Project Management" title="Fundamentals of Predictive Project Management"/></a>
   <a href="https://credly.com/350f66e6-80c7-4b98-a014-4595dc00a4ef" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/5ff933c8-b6ae-4d55-9ac5-1c4d8ff63f90/Badge_TeamEssentialsForDesigningAISolutions.png" width="70" height="70" alt="Team Essentials for Designing AI Solutions" title="Team Essentials for Designing AI Solutions"/></a>
   <a href="https://credly.com/c7019e4a-9b3a-4e87-b6b9-d89959c43621" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="70" height="70" alt="Generative AI Leader Certification" title="Generative AI Leader Certification"/></a>
@@ -192,58 +193,69 @@ A passionate Fullstack Architect from Kochi, India
   <img src="https://img.shields.io/badge/MQLight-0f766e" alt="MQLight" title="MQLight" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/ObjectStore%20Storage-7c3aed" alt="ObjectStore Storage" title="ObjectStore Storage" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/SQL-0891b2" alt="SQL" title="SQL" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Project%20Planning%20%26%20Alignment-ea580c" alt="Project Planning &amp; Alignment" title="Project Planning &amp; Alignment" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Project%20Scheduling-be185d" alt="Project Scheduling" title="Project Scheduling" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Project%20Tracking-16a34a" alt="Project Tracking" title="Project Tracking" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Requirements%20Gathering-2563eb" alt="Requirements Gathering" title="Requirements Gathering" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Risk%20Mitigation-9333ea" alt="Risk Mitigation" title="Risk Mitigation" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Task%20Delegation-dc2626" alt="Task Delegation" title="Task Delegation" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/AI%20Ethics-d97706" alt="AI Ethics" title="AI Ethics" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/AI%20Solution%20Design-0f766e" alt="AI Solution Design" title="AI Solution Design" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7c3aed" alt="Artificial Intelligence" title="Artificial Intelligence" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Collaboration-0891b2" alt="Collaboration" title="Collaboration" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Communication%20Skills-ea580c" alt="Communication Skills" title="Communication Skills" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Critical%20Thinking-be185d" alt="Critical Thinking" title="Critical Thinking" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Data%20Literacy-16a34a" alt="Data Literacy" title="Data Literacy" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Design%20Thinking-2563eb" alt="Design Thinking" title="Design Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Capabilities%20and%20Limitations-ea580c" alt="AI Capabilities and Limitations" title="AI Capabilities and Limitations" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Ethics-be185d" alt="AI Ethics" title="AI Ethics" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Literacy-16a34a" alt="AI Literacy" title="AI Literacy" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Prompt%20Writing-2563eb" alt="AI Prompt Writing" title="AI Prompt Writing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Applications%20of%20AI-9333ea" alt="Applications of AI" title="Applications of AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%28AI%29-dc2626" alt="Artificial Intelligence (AI)" title="Artificial Intelligence (AI)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Bias%20Detection%20and%20Mitigation-d97706" alt="Bias Detection and Mitigation" title="Bias Detection and Mitigation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Collaboration%20with%20AI%20Assistants-0f766e" alt="Collaboration with AI Assistants" title="Collaboration with AI Assistants" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Critical%20Thinking-7c3aed" alt="Critical Thinking" title="Critical Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Data%20Literacy-0891b2" alt="Data Literacy" title="Data Literacy" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Decision%20Making-ea580c" alt="Decision Making" title="Decision Making" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Generative%20AI%20Use-be185d" alt="Generative AI Use" title="Generative AI Use" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Interacting%20with%20AI-16a34a" alt="Interacting with AI" title="Interacting with AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Pattern%20Recognition-2563eb" alt="Pattern Recognition" title="Pattern Recognition" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-9333ea" alt="Problem Solving" title="Problem Solving" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/PWID-B1055400-dc2626" alt="PWID-B1055400" title="PWID-B1055400" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/PWID-B1024900-dc2626" alt="PWID-B1024900" title="PWID-B1024900" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Responsible%20AI-d97706" alt="Responsible AI" title="Responsible AI" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Team%20Alignment-0f766e" alt="Team Alignment" title="Team Alignment" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/User-Centered%20Design-7c3aed" alt="User-Centered Design" title="User-Centered Design" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%28AI%29-0891b2" alt="Artificial Intelligence (AI)" title="Artificial Intelligence (AI)" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Applications-ea580c" alt="Artificial Intelligence Applications" title="Artificial Intelligence Applications" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Business%20Acumen-be185d" alt="Business Acumen" title="Business Acumen" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Business%20Analysis-16a34a" alt="Business Analysis" title="Business Analysis" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Business%20Awareness-2563eb" alt="Business Awareness" title="Business Awareness" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-9333ea" alt="Generative AI" title="Generative AI" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20%28GCP%29-dc2626" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Strategic%20Business%20Units-d97706" alt="Strategic Business Units" title="Strategic Business Units" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Coding%20Practices-0f766e" alt="Coding Practices" title="Coding Practices" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-7c3aed" alt="Design Patterns" title="Design Patterns" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Design%20Process-0891b2" alt="Design Process" title="Design Process" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-ea580c" alt="AI &amp; ML" title="AI &amp; ML" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-be185d" alt="Machine Learning" title="Machine Learning" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Application%20Developer-16a34a" alt="Application Developer" title="Application Developer" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-2563eb" alt="CSS3" title="CSS3" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Data%20Security-9333ea" alt="Data Security" title="Data Security" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-dc2626" alt="Data Validation" title="Data Validation" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/HTML5-d97706" alt="HTML5" title="HTML5" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f766e" alt="JavaScript" title="JavaScript" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Object-based%20Programming-7c3aed" alt="Object-based Programming" title="Object-based Programming" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-0891b2" alt="Visual Studio" title="Visual Studio" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Web%20Applications-ea580c" alt="Web Applications" title="Web Applications" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-be185d" alt="Web Developer" title="Web Developer" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Algorithms-16a34a" alt="Algorithms" title="Algorithms" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Logic-2563eb" alt="Logic" title="Logic" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Math-9333ea" alt="Math" title="Math" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models%20%28LLMs%29-dc2626" alt="Large Language Models (LLMs)" title="Large Language Models (LLMs)" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-d97706" alt="Natural Language Processing" title="Natural Language Processing" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0f766e" alt="Prompt Engineering" title="Prompt Engineering" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Architecture-7c3aed" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Design-0891b2" alt="Software Design" title="Software Design" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Development-ea580c" alt="Software Development" title="Software Development" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Containers-be185d" alt="Containers" title="Containers" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Project%20Planning%20%26%20Alignment-0f766e" alt="Project Planning &amp; Alignment" title="Project Planning &amp; Alignment" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Project%20Scheduling-7c3aed" alt="Project Scheduling" title="Project Scheduling" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Project%20Tracking-0891b2" alt="Project Tracking" title="Project Tracking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-ea580c" alt="Requirements Gathering" title="Requirements Gathering" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Risk%20Mitigation-be185d" alt="Risk Mitigation" title="Risk Mitigation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Task%20Delegation-16a34a" alt="Task Delegation" title="Task Delegation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Solution%20Design-2563eb" alt="AI Solution Design" title="AI Solution Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-9333ea" alt="Artificial Intelligence" title="Artificial Intelligence" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Collaboration-dc2626" alt="Collaboration" title="Collaboration" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Communication%20Skills-d97706" alt="Communication Skills" title="Communication Skills" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Design%20Thinking-0f766e" alt="Design Thinking" title="Design Thinking" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/PWID-B1055400-7c3aed" alt="PWID-B1055400" title="PWID-B1055400" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Team%20Alignment-0891b2" alt="Team Alignment" title="Team Alignment" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/User-Centered%20Design-ea580c" alt="User-Centered Design" title="User-Centered Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Applications-be185d" alt="Artificial Intelligence Applications" title="Artificial Intelligence Applications" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Business%20Acumen-16a34a" alt="Business Acumen" title="Business Acumen" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Business%20Analysis-2563eb" alt="Business Analysis" title="Business Analysis" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Business%20Awareness-9333ea" alt="Business Awareness" title="Business Awareness" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-dc2626" alt="Generative AI" title="Generative AI" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20%28GCP%29-d97706" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Strategic%20Business%20Units-0f766e" alt="Strategic Business Units" title="Strategic Business Units" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Coding%20Practices-7c3aed" alt="Coding Practices" title="Coding Practices" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-0891b2" alt="Design Patterns" title="Design Patterns" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Design%20Process-ea580c" alt="Design Process" title="Design Process" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-be185d" alt="AI &amp; ML" title="AI &amp; ML" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-16a34a" alt="Machine Learning" title="Machine Learning" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Application%20Developer-2563eb" alt="Application Developer" title="Application Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/CSS3-9333ea" alt="CSS3" title="CSS3" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Data%20Security-dc2626" alt="Data Security" title="Data Security" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Data%20Validation-d97706" alt="Data Validation" title="Data Validation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/HTML5-0f766e" alt="HTML5" title="HTML5" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-7c3aed" alt="JavaScript" title="JavaScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Object-based%20Programming-0891b2" alt="Object-based Programming" title="Object-based Programming" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-ea580c" alt="Visual Studio" title="Visual Studio" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Web%20Applications-be185d" alt="Web Applications" title="Web Applications" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-16a34a" alt="Web Developer" title="Web Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Algorithms-2563eb" alt="Algorithms" title="Algorithms" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Logic-9333ea" alt="Logic" title="Logic" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Math-dc2626" alt="Math" title="Math" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models%20%28LLMs%29-d97706" alt="Large Language Models (LLMs)" title="Large Language Models (LLMs)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0f766e" alt="Natural Language Processing" title="Natural Language Processing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7c3aed" alt="Prompt Engineering" title="Prompt Engineering" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Architecture-0891b2" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Design-ea580c" alt="Software Design" title="Software Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Development-be185d" alt="Software Development" title="Software Development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Containers-16a34a" alt="Containers" title="Containers" style="margin:5px;"/>
 </div>
 <!-- END_SECTION:credly-skills -->
 
