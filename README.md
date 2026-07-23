@@ -116,6 +116,9 @@ A passionate Fullstack Architect from Kochi, India
   <a href="https://credly.com/350f66e6-80c7-4b98-a014-4595dc00a4ef" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/5ff933c8-b6ae-4d55-9ac5-1c4d8ff63f90/Badge_TeamEssentialsForDesigningAISolutions.png" width="70" height="70" alt="Team Essentials for Designing AI Solutions" title="Team Essentials for Designing AI Solutions"/></a>
   <a href="https://credly.com/eb4ea2e3-917a-4551-ac45-126de5d0129d" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="70" height="70" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner"/></a>
   <a href="https://credly.com/c7019e4a-9b3a-4e87-b6b9-d89959c43621" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="70" height="70" alt="Generative AI Leader Certification" title="Generative AI Leader Certification"/></a>
+  <a href="https://credly.com/b0766497-bdb7-475c-8f9f-85a6925eb391" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob" width="70" height="70" alt="Deploy Gemini Enterprise with Workspace Data Sources and Model Armor" title="Deploy Gemini Enterprise with Workspace Data Sources and Model Armor"/></a>
+  <a href="https://credly.com/33237e1c-5edc-455a-977d-94f22c200737" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/39c0ab96-e088-4d83-baaf-395633aa1810/blob" width="70" height="70" alt="Govern Agent Access with Gemini Enterprise Agent Platform" title="Govern Agent Access with Gemini Enterprise Agent Platform"/></a>
+  <a href="https://credly.com/578ab767-701e-4377-b558-a16f19450109" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/c386f11b-05fd-4755-b091-611d9bb96113/blob" width="70" height="70" alt="Add Agents to Gemini Enterprise" title="Add Agents to Gemini Enterprise"/></a>
   <a href="https://credly.com/c18b1bca-3556-4dfe-80e9-b1c2ea851bb0" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/c7c8704f-ae43-4306-b89c-016a88620be4/d9a3c3e5-c380-4442-9de3-ea3bf91f3047.png" width="70" height="70" alt="Common Agentic Design Patterns" title="Common Agentic Design Patterns"/></a>
   <a href="https://credly.com/e1944915-1cda-4d50-99d6-f6601f7b6624" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/a85b93cf-bf0e-4225-aa69-68970d9f3d0c/06349cfc-1fe7-43f5-bddd-c2f242b7ae8c.png" width="70" height="70" alt="AI Agents Core Components" title="AI Agents Core Components"/></a>
   <a href="https://credly.com/860a3dc4-2b2d-46de-9713-02c0081fe100" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/e20c8d61-dbbb-4638-becc-3eb9314e3d72/4b56c83c-cb75-4eca-bf1d-0e8419cabb54.png" width="70" height="70" alt="Autonomy in AI Agents" title="Autonomy in AI Agents"/></a>
@@ -126,6 +129,7 @@ A passionate Fullstack Architect from Kochi, India
   <a href="https://credly.com/53858416-ab60-4ff2-b871-b3abc4048ada" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/b45b3b81-6646-45c6-a785-8924a51a8c1d/6d53791d-41f4-4205-ba60-10930ab8d0fe.png" width="70" height="70" alt="Arch vs Design" title="Arch vs Design"/></a>
   <a href="https://credly.com/997884bd-3a92-4c13-8274-f1aee2b04b30" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/8bf2cdd3-7214-4c45-b22e-b8118a101612/ccdb7922-240b-4bb8-a089-a2f2b97d8430.png" width="70" height="70" alt="Architect Expectations" title="Architect Expectations"/></a>
   <a href="https://credly.com/ec92c132-f80f-45fc-a37b-dc41292c9e0d" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/67252f1e-692b-4923-82c2-143d88ea583e/4e14402e-9653-4fde-b8d0-cf5e129d134d.png" width="70" height="70" alt="Task Decomposition" title="Task Decomposition"/></a>
+  <a href="https://credly.com/7395b947-56cb-4625-8f4a-0f4dbacdd4a1" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/9a9bd5ca-b41b-41ed-82ad-43968d960f62/blob" width="70" height="70" alt="Accelerate Development with Antigravity" title="Accelerate Development with Antigravity"/></a>
 <a href="https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="70" height="70" alt="Graph Developer - Associate" title="Graph Developer - Associate" style="margin: 5px;"/></a><a href="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" target="_blank"><img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="70" height="70" alt="Claude Code in Action" title="Claude Code in Action" style="margin: 5px;"/></a>
 <!-- END_SECTION:credly-personal -->
  
@@ -235,30 +239,41 @@ A passionate Fullstack Architect from Kochi, India
   <img src="https://img.shields.io/badge/Business%20Awareness-0891b2" alt="Business Awareness" title="Business Awareness" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-ea580c" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Strategic%20Business%20Units-be185d" alt="Strategic Business Units" title="Strategic Business Units" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Coding%20Practices-16a34a" alt="Coding Practices" title="Coding Practices" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-2563eb" alt="Design Patterns" title="Design Patterns" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Design%20Process-9333ea" alt="Design Process" title="Design Process" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-dc2626" alt="AI &amp; ML" title="AI &amp; ML" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-d97706" alt="Machine Learning" title="Machine Learning" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Algorithms-0f766e" alt="Algorithms" title="Algorithms" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Logic-7c3aed" alt="Logic" title="Logic" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Math-0891b2" alt="Math" title="Math" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-ea580c" alt="Large Language Models (LLMs)" title="Large Language Models (LLMs)" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-be185d" alt="Natural Language Processing" title="Natural Language Processing" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Application%20Developer-16a34a" alt="Application Developer" title="Application Developer" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-2563eb" alt="CSS3" title="CSS3" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Data%20Security-9333ea" alt="Data Security" title="Data Security" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-dc2626" alt="Data Validation" title="Data Validation" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/HTML5-d97706" alt="HTML5" title="HTML5" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f766e" alt="JavaScript" title="JavaScript" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Object-based%20Programming-7c3aed" alt="Object-based Programming" title="Object-based Programming" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-0891b2" alt="Visual Studio" title="Visual Studio" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Web%20Applications-ea580c" alt="Web Applications" title="Web Applications" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-be185d" alt="Web Developer" title="Web Developer" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Architecture-16a34a" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Design-2563eb" alt="Software Design" title="Software Design" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Software%20Development-9333ea" alt="Software Development" title="Software Development" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Containers-dc2626" alt="Containers" title="Containers" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Dealing%20With%20Ambiguity-16a34a" alt="Dealing With Ambiguity" title="Dealing With Ambiguity" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Google%20Workspace-2563eb" alt="Google Workspace" title="Google Workspace" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Internal%20Relations-9333ea" alt="Internal Relations" title="Internal Relations" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Secure%20Environments-dc2626" alt="Secure Environments" title="Secure Environments" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/System%20Deployment-d97706" alt="System Deployment" title="System Deployment" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Agent%20Gateaway-0f766e" alt="Agent Gateaway" title="Agent Gateaway" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Agent%20governance-7c3aed" alt="Agent governance" title="Agent governance" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/ADK-0891b2" alt="ADK" title="ADK" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Coding%20Practices-ea580c" alt="Coding Practices" title="Coding Practices" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-be185d" alt="Design Patterns" title="Design Patterns" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Design%20Process-16a34a" alt="Design Process" title="Design Process" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-2563eb" alt="AI &amp; ML" title="AI &amp; ML" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-9333ea" alt="Machine Learning" title="Machine Learning" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Algorithms-dc2626" alt="Algorithms" title="Algorithms" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Logic-d97706" alt="Logic" title="Logic" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Math-0f766e" alt="Math" title="Math" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-7c3aed" alt="Large Language Models (LLMs)" title="Large Language Models (LLMs)" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0891b2" alt="Natural Language Processing" title="Natural Language Processing" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Application%20Developer-ea580c" alt="Application Developer" title="Application Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/CSS3-be185d" alt="CSS3" title="CSS3" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Data%20Security-16a34a" alt="Data Security" title="Data Security" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Data%20Validation-2563eb" alt="Data Validation" title="Data Validation" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/HTML5-9333ea" alt="HTML5" title="HTML5" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-dc2626" alt="JavaScript" title="JavaScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Object-based%20Programming-d97706" alt="Object-based Programming" title="Object-based Programming" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-0f766e" alt="Visual Studio" title="Visual Studio" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Web%20Applications-7c3aed" alt="Web Applications" title="Web Applications" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-0891b2" alt="Web Developer" title="Web Developer" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Architecture-ea580c" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Design-be185d" alt="Software Design" title="Software Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Software%20Development-16a34a" alt="Software Development" title="Software Development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Containers-2563eb" alt="Containers" title="Containers" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Agent%20development-9333ea" alt="Agent development" title="Agent development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Application%20Development-dc2626" alt="Application Development" title="Application Development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Hands-on%20Learning-d97706" alt="Hands-on Learning" title="Hands-on Learning" style="margin:5px;"/>
 </div>
 <!-- END_SECTION:credly-skills -->
 
