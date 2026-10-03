@@ -137,12 +137,12 @@ async function renderBadgesHtml(badges) {
     const verificationUrl = escapeHtml(badge.verificationUrl);
 
     if (imageUrl && await isImageAvailable(imageUrl)) {
-      htmlOutput += `  <a href="${verificationUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="${escapeHtml(imageUrl)}" width="70" height="70" alt="${safeName}" title="${safeName}"/></a>\n`;
+      htmlOutput += `  <a href="${verificationUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="${escapeHtml(imageUrl)}" width="100" height="100" alt="${safeName}" title="${safeName}"/></a>\n`;
     } else {
       const normalizedName = badge.name.replace(/[^A-Za-z0-9._-]+/g, '-').replace(/^-+|-+$/g, '') || 'badge';
       const color = colors[index % colors.length];
       const badgeUrl = `https://img.shields.io/badge/${encodeBadgeLabel(normalizedName)}-${color}`;
-      htmlOutput += `  <a href="${verificationUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="${badgeUrl}" width="70" height="70" alt="${safeName}" title="${safeName}"/></a>\n`;
+      htmlOutput += `  <a href="${verificationUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="${badgeUrl}" width="100" height="100" alt="${safeName}" title="${safeName}"/></a>\n`;
     }
   }
 
