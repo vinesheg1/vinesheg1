@@ -139,6 +139,7 @@ A passionate Fullstack Architect from Kochi, India
   <a href="https://credly.com/997884bd-3a92-4c13-8274-f1aee2b04b30" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/b6afb4c6-af1f-4ffe-8cb7-b00b9db29c53/ccdb7922-240b-4bb8-a089-a2f2b97d8430.png" width="100" height="100" alt="Architect Expectations" title="Architect Expectations"/></a>
   <a href="https://credly.com/ec92c132-f80f-45fc-a37b-dc41292c9e0d" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/82e68c23-3d23-424b-a73a-d991929cc9ce/4e14402e-9653-4fde-b8d0-cf5e129d134d.png" width="100" height="100" alt="Task Decomposition" title="Task Decomposition"/></a>
   <a href="https://credly.com/d11283cc-8d6d-4567-87c1-585faf093427" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/384e1386-110e-439d-8014-18fe42bb5f18/blob" width="100" height="100" alt="Build with Gemini" title="Build with Gemini"/></a>
+  <a href="https://credly.com/fae60486-4a57-4055-acef-80afb727a1d0" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="100" height="100" alt="Claude Certified Architect - Professional" title="Claude Certified Architect - Professional"/></a>
   <a href="https://credly.com/80140ac7-4f2d-4732-a4c5-6d4afe47da7a" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:5px;"><img src="https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" width="100" height="100" alt="Claude Certified Developer - Foundations" title="Claude Certified Developer - Foundations"/></a>
 <a href="https://www.apollographql.com/tutorials/certifications/0a3e6b69-0ab8-4a4a-ba28-2b15914b40ff" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="70" height="70" alt="Graph Developer - Associate" title="Graph Developer - Associate" style="margin: 5px;"/></a><a href="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" target="_blank"><img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-9pq37dfzvoy4-1773069942.jpg?Expires=1782236312&Signature=Qqu9FA5FlTPBVGAqcUuVBgxN0GZ~G-n8ELHKf9bkCa7ovAR91hbUaAdB6F4i59fONcan38xFMOvG3br0XLLPIjO7iYrNIxGMp8KNKmkvobB40JtANKmu9YtHNKq29JJYYJUKXhdnHMMikQAbKTk56uS0D~Dff4bj-ZScCz2zHhFqRgVuY2avtX96JbPg942yAo5O07RXynyPw0uxpOaH5PjySAxQgJITGxCURgxE94TCWJAsWEKo6QvqKfIsCctvxSvDdQZr79v4Ck2ocqug3PPTno0ZMuxaDf0u7UOvOTzZpgzZ0ESOBerWkamiOzeuTiUrY0N04RBdRRauhlZTMQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="70" height="70" alt="Claude Code in Action" title="Claude Code in Action" style="margin: 5px;"/></a>
 <!-- END_SECTION:credly-personal -->
@@ -309,12 +310,19 @@ A passionate Fullstack Architect from Kochi, India
   <img src="https://img.shields.io/badge/Software%20Architecture-0891b2" alt="Software Architecture" title="Software Architecture" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Software%20Design-ea580c" alt="Software Design" title="Software Design" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Containers-be185d" alt="Containers" title="Containers" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Application%20Security-16a34a" alt="Application Security" title="Application Security" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Claude%20API%20integration-2563eb" alt="Claude API integration" title="Claude API integration" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Context%20engineering-9333ea" alt="Context engineering" title="Context engineering" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Eval%20%26%20debugging-dc2626" alt="Eval &amp; debugging" title="Eval &amp; debugging" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/MCP%20Server%20Development-d97706" alt="MCP Server Development" title="MCP Server Development" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Model%20Optimization-0f766e" alt="Model Optimization" title="Model Optimization" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/AI%20Governance-16a34a" alt="AI Governance" title="AI Governance" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Context%20engineering-2563eb" alt="Context engineering" title="Context engineering" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Enterprise%20Architecture-9333ea" alt="Enterprise Architecture" title="Enterprise Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Evaluation%20%26%20optimization-dc2626" alt="Evaluation &amp; optimization" title="Evaluation &amp; optimization" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Integration%20Architecture-d97706" alt="Integration Architecture" title="Integration Architecture" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-0f766e" alt="Risk Management" title="Risk Management" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Solution%20Design-7c3aed" alt="Solution Design" title="Solution Design" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-0891b2" alt="Stakeholder Management" title="Stakeholder Management" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Application%20Security-ea580c" alt="Application Security" title="Application Security" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Claude%20API%20integration-be185d" alt="Claude API integration" title="Claude API integration" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Eval%20%26%20debugging-16a34a" alt="Eval &amp; debugging" title="Eval &amp; debugging" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/MCP%20Server%20Development-2563eb" alt="MCP Server Development" title="MCP Server Development" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Model%20Optimization-9333ea" alt="Model Optimization" title="Model Optimization" style="margin:5px;"/>
 </div>
 <!-- END_SECTION:credly-skills -->
 
